@@ -6,7 +6,7 @@ Deduct It! is an iOS app for managing year-end tax deductions.  It lets the user
 
 ## Getting Started
 
-If you are interested in playing around with the app, just clone/download the repository, and open DeductIt.xcodeproj.
+If you are interested in playing around with the app, just clone/download the repository, open DeductIt.xcodeproj, and click run in XCode.
 
 It was built with:
 ```
